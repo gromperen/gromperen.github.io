@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Daniel Murphy's Personal Website # the website title (if blank, full name will be used instead)
 first_name: Daniel
 middle_name: 
 last_name: Murphy
 contact_note: >
   To reach me, just send me an email or message me on linkedin :)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal website.
+  This is Daniel Murphy's personal website.
 footer_text:
 keywords: daniel-murphy, machine-learning, blog, personal-website, imperial, ethz # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
