@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Daniel Murphy's Personal Website # the website title (if blank, full name will be used instead)
+title: Daniel Murphy # the website title (if blank, full name will be used instead)
 first_name: Daniel
 middle_name: 
 last_name: Murphy
