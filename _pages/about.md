@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Daniel, I study Maths at Imperial and am on exchange at ETH Zürich.
+I am Daniel, I study maths at Imperial and was at ETH Zürich on exchange for a year.
 
 This is my personal website which is currently under construction :)
